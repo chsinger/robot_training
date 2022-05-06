@@ -1,0 +1,9 @@
+{
+    "name": "FirstTest",
+    "description": "readme.md",
+    "files": [
+        {
+            "fileName": "FirstTest.robot"
+        }
+    ]
+}
