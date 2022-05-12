@@ -1,5 +1,6 @@
 {
     "name": "Empty",
+    "description": "readme.md",
     "files": [
         {
             "fileName": "FirstTest.robot"
