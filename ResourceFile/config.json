@@ -3,7 +3,9 @@
     "description": "readme.md",
     "files": [
         {
-            "fileName": "TestSuite.robot",
+            "fileName": "TestSuite.robot"
+        },
+        {
             "fileName": "Keywords.resource"
         }
     ]
