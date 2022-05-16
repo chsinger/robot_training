@@ -1,0 +1,10 @@
+{
+    "name": "ResourceFile",
+    "description": "readme.md",
+    "files": [
+        {
+            "fileName": "TestSuite.robot",
+            "fileName": "Keywords.resource"
+        }
+    ]
+}

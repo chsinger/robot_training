@@ -1,0 +1,1 @@
+Using keywords from Resource files.
