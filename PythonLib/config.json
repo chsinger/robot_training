@@ -4,6 +4,9 @@
     "files": [
         {
             "fileName": "PythonLib.robot"
+        },
+        {
+            "fileName": "hello_world.py"
         }
     ]
 }
