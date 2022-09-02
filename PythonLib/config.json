@@ -1,0 +1,9 @@
+{
+    "name": "PythonLib",
+    "description": "readme.md",
+    "files": [
+        {
+            "fileName": "PythonLib.robot"
+        }
+    ]
+}
